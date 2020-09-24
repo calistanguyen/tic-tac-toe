@@ -16,6 +16,13 @@ void DisplayBoard(char board[3][3]){
   }
 
 }
+
+void PlaceMaker(int location[2], char marker, char board[3][3]){
+    int row = location[0]; 
+    int col = location[1]; 
+    board[row][col] = marker; 
+}
+
 int main(){
 
     char board[3][3]; //initializing 2d array for the board
