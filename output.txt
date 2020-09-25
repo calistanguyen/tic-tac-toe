@@ -1,0 +1,75 @@
+***
+***
+***
+Player 2 Turn
+Enter a row:
+2
+Enter a column:
+1
+***
+***
+*X*
+Player 1 Turn
+Enter a row:
+1
+Enter a column:
+2
+***
+**O
+*X*
+Player 2 Turn
+Enter a row:
+1
+Enter a column:
+1
+***
+*XO
+*X*
+Player 1 Turn
+Enter a row:
+0
+Enter a column:
+0
+O**
+*XO
+*X*
+Player 2 Turn
+Enter a row:
+1
+Enter a column:
+2
+O**
+*XX
+*X*
+Player 1 Turn
+Enter a row:
+0
+Enter a column:
+1
+OO*
+*XX
+*X*
+Player 2 Turn
+Enter a row:
+1
+Enter a column:
+0
+OO*
+XXX
+*X*
+Player 1 Turn
+Enter a row:
+0
+Enter a column:
+2
+OOO
+XXX
+*X*
+Player 2 Turn
+Enter a row:
+2
+Enter a column:
+2
+OOO
+XXX
+*XX
